@@ -1,0 +1,107 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow-x: hidden;
+}
+.login-form{
+    background-color: #f5f9fc;
+    width: 50%;
+    position: relative;
+    left: 140px;
+    height: 750px;
+    overflow-x: hidden;
+}
+
+.main-div{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#heading{
+    font-weight: bold;
+    color: #2558ab;
+    display: flex;
+    position: relative;
+    left: 80px;
+    font-size: 32px;
+}
+
+select{
+    background-color: #f5f9fc;
+    border: none;
+}
+
+#english-dropdown{
+    position: relative;
+    left: 210px;
+    font-size: 15px;
+}
+
+#start-text-login{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 15px;
+    position: relative;
+    left: 80px;
+}
+
+
+.label{
+    display: flex;
+    position: relative;
+    left: 85px;
+}
+
+.input-fields{
+    display: flex;
+    position: relative;
+    bottom: 10px;
+    left: 82px;
+    height: 30px;
+    width: 70%;
+    border: 2px solid lightgray;
+}
+
+::placeholder{
+    color: gray;
+    font-weight: bold;
+    font-size: 12px;
+    position: relative;
+    left: 12px;
+}
+
+#login-btn{
+    color: white;
+    background-color: #2558ab;
+    width: 70%;
+    height: 5%;
+    font-size: 16px;
+    border: none;
+    position: relative;
+    right: 25px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+#side-img{
+    height: 550px;
+    position: relative;
+    left: 20px;
+}
+
+#copyright-text{
+    color: gray;
+    font-size: 14px;
+}
+
+#mail-icon{
+    position: relative;
+    bottom: 39px;
+    left: 215px;
+}
+
+#pass-icon{
+    position: relative;
+    bottom: 39px;
+    left: 215px;
+}

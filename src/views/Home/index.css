@@ -1,0 +1,75 @@
+
+#main-div{
+    position: relative;
+    bottom: 0px;
+}
+#top-div{
+    background-color: black;
+    height: 45px;
+    /* position: relative; */
+    color: white;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+ }
+
+.mail-contact-no{
+    position: relative;
+    top: 6px;
+    left: 350px;
+}
+
+
+.top-icons{
+    height: 20px;
+    position: relative;
+    top: 0px;
+}
+
+#header-icon{
+    height: 90px;
+    position: relative;
+    left: 640px;
+    bottom: 45px;
+    z-index: 2;
+}
+
+
+
+.first-letter-size{
+    font-size: 37px;
+}
+
+.sign-btns{
+    position: relative;
+    left: 780px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px
+}
+
+#header{
+    position: relative;
+    bottom: 100px;
+}
+
+#give-text{
+    color: white;
+    font-weight: normal;
+}
+
+#slider{
+    position: relative;
+    bottom: 142px;
+    /* opacity: 0.4; */
+    /* z-index: 1; */
+}
+
+#event-info{
+    color: white;
+    z-index: 2;
+    position: relative;
+    bottom: 75px;
+}

@@ -1,0 +1,77 @@
+.img-size{
+    height: 400px;
+    width: 100%;
+}
+#event-heading{
+    color: #A87516;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    position: relative;
+    left: 175px;
+    font-size: 20px;
+}
+.first-letter-size{
+    font-size: 37px;
+}
+
+.sign-btns{
+    position: relative;
+    left: 780px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px
+}
+
+#header{
+    position: relative;
+    bottom: 100px;
+}
+
+#give-text{
+    color: white;
+    font-weight: normal;
+}
+
+#para{
+    font-size: 42px;
+}
+
+#how-it-works-btn{
+    background-color: #222222;
+    color: white;
+    border: 2px solid #A87516;
+    border-radius: 5px;
+}
+
+#inputfields{
+    border: 5px solid lightslategray;
+    width: 52%;
+    display: flex;
+    /* justify-content: center; */
+    /* height: 40px; */
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+.inputs{
+    width: 50%;
+}
+
+#search-btn{
+    color: white;
+    background-color: #e6a201;
+    width: 190px;
+}
+
+.input-icons{
+    height: 34px;
+    position: relative;
+    left: 1px;
+}
+
+.carosel-captions{
+    position: relative;
+    bottom: 39px;
+}

@@ -1,0 +1,191 @@
+#img-container-1{
+    display: flex;
+    justify-content: center;
+}
+
+#img-container-1 > img{
+    height: 90px;
+    justify-content: space-around;
+}
+
+#img-container-2{
+    display: flex;
+    justify-content: center;
+}
+
+#img-container-2 > img{
+    height: 90px;
+    /* justify-content: space-around; */
+    /* position: relative;
+    bottom: 20px; */
+}
+
+#partyhall-icon{
+    position: relative;
+    right: 185px;
+}
+
+#party-text{
+    position: relative;
+    right: 316px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#saloon-icon{
+    position: relative;
+    right: 70px;
+}
+
+#saloon-text{
+    position: relative;
+    right: 100px;
+    font-size: 12px;
+    font-weight: bold;
+    bottom: 52px;
+}
+
+#catering-text{
+    position: relative;
+    left: 145px;
+    font-size: 12px;
+    font-weight: bold;
+    bottom: 105px;
+}
+
+#catering-icon{
+    position: relative;
+    left: 85px;
+}
+
+#designer-text{
+    position: relative;
+    left: 365px;
+    font-size: 12px;
+    font-weight: bold;
+    bottom: 156px;
+}
+
+#designer-icon{
+    position: relative;
+    left: 210px;
+}
+
+#book-service{
+    background-color: #f3ab00;
+    position: relative;
+    bottom: 70px;
+}
+
+.service-heading{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#book-text{
+    color: white;
+}
+
+#img-main-div{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.all-img{
+    height: 70px;
+}
+
+#search-icon{
+    position: relative;
+    right: 200px;
+}
+
+.head{
+    font-size: 25px;
+}
+
+#request-icon{
+    position: relative;
+    right: 100px;
+}
+
+#book-icon{
+    position: relative;
+    right: 25px;
+}
+
+#watch-video{
+    position: relative;
+    left: 105px;
+    bottom: 5px;
+}
+
+#comment-section{
+    display: flex;
+    position: relative;
+    bottom: 70px;
+}
+
+#one{
+    background-color: #d5d5d5;
+    flex: 3 1;
+    height: 600px;
+    overflow-x: clip;
+}
+
+#two{
+    background-color: #ffffff;
+    flex: 1;
+}
+
+#customer-text{
+    text-align: justify;
+    position: relative;
+    left: 70px;
+    width: 40%;
+}
+
+.customer-img{
+    height: 70px;
+    position: relative;
+    right: 335px;
+}
+
+.head-comment-section{
+    font-size: 30px;
+    position: relative;
+    left: 60px;
+    top: 8px;
+}
+
+#venue-icon{ 
+    position: relative;
+    bottom: 506px;
+    left: 200px;
+}
+
+#venue-text{ 
+    text-align: justify;
+    position: relative;
+    left: 400px;
+    bottom: 6px;
+}
+
+#side-commments{
+    color: #e9c560;
+    font-size: 30px;
+}
+
+#neelam-img{
+    height: 90px;   
+}
+
+#name{
+    color: #e9c560;
+    font-size: 20px;
+}
+
+#neelam-comment{
+    text-align: center;
+}

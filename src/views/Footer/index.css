@@ -1,0 +1,39 @@
+footer{
+    background-color: #333333;
+    color: white;
+}
+
+.heading{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.one{
+    position: relative;
+    right: 80px;
+}
+
+.two{
+    position: relative;
+    right: 180px;
+}
+
+.three{
+    position: relative;
+    right: 250px
+}
+
+.four{
+    position: relative;
+    right: 335px;
+}
+.five{
+    position: relative;
+    left: 1130px;
+    bottom: 128px;
+}
+
+#footer-span{
+    font-size: 15px;
+    color: gray;
+}
